@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Note</label>
+        <live_feed_enabled>true</live_feed_enabled>
+        <name>x_snc_createnotes_note</name>
+        <number_ref display_value="NOTE">db8fe243c35616102d491a2ed4013102</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 17:28:50</sys_created_on>
+        <sys_id>5fee6603c35616102d491a2ed40131e5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Note</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_db_object_5fee6603c35616102d491a2ed40131e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 17:32:10</sys_updated_on>
+        <u_duration/>
+        <u_modules/>
+        <u_prerequisities/>
+        <u_resources/>
+        <u_topics>Incident management, Problem management, Change management, Hardware asset management, software asset management, automation, Discovery, Service Mapping, Orchestration</u_topics>
+        <update_access>false</update_access>
+        <user_role display_value="x_snc_createnotes.note_user" name="x_snc_createnotes.note_user">968feecfc31616102d491a2ed40131ce</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
