@@ -114,4 +114,15 @@
   </div>
 </div>]]></template>
     </sp_widget>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>7a7543e8db3133000613a08a4896195e</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-11-05 18:38:33</sys_created_on>
+        <sys_id>dd2c5651c3c572107fa3db0d05013128</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-11-05 18:38:33</sys_updated_on>
+        <table>sp_widget</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
 </record_update>
